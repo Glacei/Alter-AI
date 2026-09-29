@@ -17,6 +17,8 @@
 ### Go to the link in the drive, download it and run the setup, a security pop will show, if this scares and you don't want to install then its fine but its safe so you shouldn't worry, just click on more details and install it anyways.
 #### Think that the AI is locally on your pc using Ollama, I won't know that your favourite food is fried chicken so don't worry.
 
+### https://drive.google.com/drive/folders/1U0kL4d0BleQqcawRhecN-8KTWhi9_D55?usp=sharing
+
 ### Once you've done all this it should be working, just open the program and you will have the UI with Chihiro at the side, the fist message will take some time because the AI has to startup, the memory consume is not super big but if you have a really slow pc you may have some problems using other applications.
 
 ### Tbh I want to keep looking to this project but don't expect a lot, also the app is super simple so yeah don't install it expecting the "Ultimate Programmer" work, thats all byeee.
