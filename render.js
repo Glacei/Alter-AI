@@ -188,9 +188,9 @@ async function sendMessage() {
         model: CURRENT_MODEL,
         messages: chats[currentChatId].messages,
         stream: true,
-        keep_alive: -1,
+        keep_alive: "30s",
         options: {
-          num_ctx: 4096
+          num_ctx: 2048
         }
       })
     });
